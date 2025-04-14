@@ -58,12 +58,6 @@ You can find the dataset [here](https://www.kaggle.com/competitions/titanic/data
 
 ---
 
-## 📈 Results
-
-- Final accuracy: **XX%** on the validation set *(replace with your actual score)*  
-- Kaggle public leaderboard score: **XX.XXX** *(optional)*
-
----
 
 ## 📁 Project Structure
 
